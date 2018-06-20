@@ -1,4 +1,6 @@
+
 module.exports = function() {
+
     function editorReady() {
 
     }
@@ -16,5 +18,4 @@ module.exports = function() {
         onEvent,
         getAppManifest
     }
-    
-}
+}();

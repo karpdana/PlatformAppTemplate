@@ -1,0 +1,16 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "main": "editor.js",
+  "dependencies": {
+    "serve": "^9.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

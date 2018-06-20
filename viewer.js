@@ -1,9 +1,9 @@
   
   const createControllers = controllerConfigs => {};
-  
+  const initAppForPage = () => {}
   
   module.exports = {
-    initAppForPage: () => {},
+    initAppForPage,
     createControllers,
     exports: {}
   };
